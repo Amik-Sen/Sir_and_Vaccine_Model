@@ -9,4 +9,4 @@ pytz==2021.1
 six==1.15.0
 sqlparse==0.4.1
 typing-extensions==3.7.4.3
--r ./path/to/prod-gurobi.txt
+-r gurobi.txt
